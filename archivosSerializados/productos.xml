@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.marketplace.api.entities.Producto">
+    <void property="codigo">
+     <int>1</int>
+    </void>
+    <void property="nombre">
+     <string>SegundoProductoUpdated</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.marketplace.api.entities.Producto">
+    <void property="codigo">
+     <int>2</int>
+    </void>
+    <void property="nombre">
+     <string>SefundoProducto</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
