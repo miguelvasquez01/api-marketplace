@@ -2,11 +2,12 @@ package com.marketplace.api.entities;
 
 import lombok.Data;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.List;
 
 @Data
-public class Producto {
+public class Producto implements Serializable {
 
     private String nombre;
     private int codigo;

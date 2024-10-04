@@ -19,7 +19,7 @@ import java.util.Optional;
 public class VendedorService {
 
     @Autowired
-    private XMLSerializador xmlSerializador;
+    private XMLSerializador xmlSerializador = new XMLSerializador();
 
     private final String ruta = "archivosSerializados/vendedores.xml";
 
@@ -74,6 +74,7 @@ public class VendedorService {
                 vendedor.setNombre(nuevoVendedor.getNombre());
                 vendedor.setApellidos(nuevoVendedor.getApellidos());
                 vendedor.setDireccion(nuevoVendedor.getDireccion());
+                vendedor.setProductos(nuevoVendedor.getProductos());
 
                 xmlSerializador.serializarLista(ruta, vendedores);
                 return true;

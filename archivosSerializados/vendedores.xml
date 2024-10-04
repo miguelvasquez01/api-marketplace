@@ -2,7 +2,44 @@
 <java version="21.0.2" class="java.beans.XMLDecoder">
  <object class="java.util.ArrayList">
   <void method="add">
-   <object class="com.marketplace.api.entities.Vendedor">
+   <object class="com.marketplace.api.entities.Vendedor" id="Vendedor0">
+    <void property="apellidos">
+     <string>Salamanca</string>
+    </void>
+    <void property="cedula">
+     <string>12345</string>
+    </void>
+    <void property="direccion">
+     <string>calle 21</string>
+    </void>
+    <void property="nombre">
+     <string>Carlos</string>
+    </void>
+    <void property="productos">
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>si</string>
+       </void>
+       <void property="codigo">
+        <int>1</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Pescado254</string>
+       </void>
+       <void property="precio">
+        <double>23.0</double>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.marketplace.api.entities.Vendedor" id="Vendedor1">
     <void property="apellidos">
      <string>Torres</string>
     </void>
@@ -11,6 +48,251 @@
     </void>
     <void property="nombre">
      <string>Carlos</string>
+    </void>
+    <void property="productos">
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>se</string>
+       </void>
+       <void property="codigo">
+        <int>2</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Planta2</string>
+       </void>
+       <void property="precio">
+        <double>45.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>se</string>
+       </void>
+       <void property="codigo">
+        <int>3</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Pepino</string>
+       </void>
+       <void property="precio">
+        <double>12.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>se</string>
+       </void>
+       <void property="codigo">
+        <int>3</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Pepino</string>
+       </void>
+       <void property="precio">
+        <double>12.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>re</string>
+       </void>
+       <void property="codigo">
+        <int>5</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Tomate</string>
+       </void>
+       <void property="precio">
+        <double>45.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>re</string>
+       </void>
+       <void property="codigo">
+        <int>5</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Tomate</string>
+       </void>
+       <void property="precio">
+        <double>45.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>dr</string>
+       </void>
+       <void property="codigo">
+        <int>6</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Salchica</string>
+       </void>
+       <void property="precio">
+        <double>54.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>de</string>
+       </void>
+       <void property="codigo">
+        <int>2</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Ola</string>
+       </void>
+       <void property="precio">
+        <double>89.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>de</string>
+       </void>
+       <void property="codigo">
+        <int>2</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>otra</string>
+       </void>
+       <void property="precio">
+        <double>76.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>fr</string>
+       </void>
+       <void property="codigo">
+        <int>2</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>Productosi</string>
+       </void>
+       <void property="precio">
+        <double>67.0</double>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.marketplace.api.entities.Vendedor" id="Vendedor2">
+    <void property="apellidos">
+     <string>Torres</string>
+    </void>
+    <void property="cedula">
+     <string>69</string>
+    </void>
+    <void property="nombre">
+     <string>Pepe</string>
+    </void>
+    <void property="productos">
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>4f</string>
+       </void>
+       <void property="codigo">
+        <int>1</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>PepeProducto</string>
+       </void>
+       <void property="precio">
+        <double>76.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>hy</string>
+       </void>
+       <void property="codigo">
+        <int>1</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>PepeProducto2</string>
+       </void>
+       <void property="precio">
+        <double>43.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>fr</string>
+       </void>
+       <void property="codigo">
+        <int>2</int>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/logo1.jpg</string>
+       </void>
+       <void property="nombre">
+        <string>PepeProducto3</string>
+       </void>
+       <void property="precio">
+        <double>98.0</double>
+       </void>
+      </object>
+     </void>
     </void>
    </object>
   </void>
