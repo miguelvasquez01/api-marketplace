@@ -13,4 +13,7 @@ public class LoginRequest {
         this.nombre = username;
         this.cedula = password;
     }
+
+    public LoginRequest() {
+    }
 }

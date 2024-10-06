@@ -4,6 +4,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 @Data
@@ -15,7 +16,7 @@ public class Producto implements Serializable {
     private String categoria;
     private double precio;
     private EstadoProducto estado;
-    private LocalDate fechaPublicacion;
+    private String fechaPublicacion;//String para que pueda ser manejado a XML
     private List<Comentario> comentarios;
     private int meGustas;
 }

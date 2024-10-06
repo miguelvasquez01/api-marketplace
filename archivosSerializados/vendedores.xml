@@ -227,10 +227,68 @@
   <void method="add">
    <object class="com.marketplace.api.entities.Vendedor" id="Vendedor2">
     <void property="apellidos">
-     <string>Torres</string>
+     <string>Pata</string>
+    </void>
+    <void property="cedula">
+     <string>77</string>
+    </void>
+    <void property="contactos">
+     <null/>
+    </void>
+    <void property="direccion">
+     <string>34fr</string>
+    </void>
+    <void property="nombre">
+     <string>Hernan</string>
+    </void>
+    <void property="productos">
+     <void method="add">
+      <object class="com.marketplace.api.entities.Producto">
+       <void property="categoria">
+        <string>djwoj</string>
+       </void>
+       <void property="codigo">
+        <int>43</int>
+       </void>
+       <void property="estado">
+        <object class="java.lang.Enum" id="EstadoProducto0" method="valueOf">
+         <class>com.marketplace.api.entities.EstadoProducto</class>
+         <string>PUBLICADO</string>
+        </object>
+       </void>
+       <void property="fechaPublicacion">
+        <string>2024-10-06</string>
+       </void>
+       <void property="imagen">
+        <string>/com/marketplace/assets/img/images (3).jpg</string>
+       </void>
+       <void property="nombre">
+        <string>ProductoFecha2</string>
+       </void>
+       <void property="precio">
+        <double>89.0</double>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="reseñas">
+     <null/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.marketplace.api.entities.Vendedor" id="Vendedor3">
+    <void property="apellidos">
+     <string>Pelaez</string>
     </void>
     <void property="cedula">
      <string>69</string>
+    </void>
+    <void property="contactos">
+     <null/>
+    </void>
+    <void property="direccion">
+     <string>cll 1</string>
     </void>
     <void property="nombre">
      <string>Pepe</string>
@@ -239,60 +297,56 @@
      <void method="add">
       <object class="com.marketplace.api.entities.Producto">
        <void property="categoria">
-        <string>4f</string>
+        <string>juu</string>
        </void>
        <void property="codigo">
-        <int>1</int>
+        <int>78</int>
+       </void>
+       <void property="estado">
+        <object idref="EstadoProducto0"/>
+       </void>
+       <void property="fechaPublicacion">
+        <string>2024-10-06</string>
        </void>
        <void property="imagen">
-        <string>/com/marketplace/assets/img/logo1.jpg</string>
+        <string>/com/marketplace/assets/img/images (3).jpg</string>
        </void>
        <void property="nombre">
-        <string>PepeProducto</string>
+        <string>Producto pepe1</string>
        </void>
        <void property="precio">
-        <double>76.0</double>
+        <double>78.0</double>
        </void>
       </object>
      </void>
      <void method="add">
       <object class="com.marketplace.api.entities.Producto">
        <void property="categoria">
-        <string>hy</string>
+        <string>sieñor</string>
        </void>
        <void property="codigo">
-        <int>1</int>
+        <int>65</int>
+       </void>
+       <void property="estado">
+        <object idref="EstadoProducto0"/>
+       </void>
+       <void property="fechaPublicacion">
+        <string>2024-10-06</string>
        </void>
        <void property="imagen">
-        <string>/com/marketplace/assets/img/logo1.jpg</string>
+        <string>/com/marketplace/assets/img/images (3).jpg</string>
        </void>
        <void property="nombre">
         <string>PepeProducto2</string>
        </void>
        <void property="precio">
-        <double>43.0</double>
+        <double>34.0</double>
        </void>
       </object>
      </void>
-     <void method="add">
-      <object class="com.marketplace.api.entities.Producto">
-       <void property="categoria">
-        <string>fr</string>
-       </void>
-       <void property="codigo">
-        <int>2</int>
-       </void>
-       <void property="imagen">
-        <string>/com/marketplace/assets/img/logo1.jpg</string>
-       </void>
-       <void property="nombre">
-        <string>PepeProducto3</string>
-       </void>
-       <void property="precio">
-        <double>98.0</double>
-       </void>
-      </object>
-     </void>
+    </void>
+    <void property="reseñas">
+     <null/>
     </void>
    </object>
   </void>
