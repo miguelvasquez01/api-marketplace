@@ -16,12 +16,11 @@ public class Vendedor implements Serializable {
     private String cedula;
     private String direccion;
     private List<Producto> productos;
-    private ArrayList<Vendedor> contactos = new ArrayList<>();
-    private ArrayList<Resena> reseñas = new ArrayList<>();
+    private ArrayList<Vendedor> contactos;
+    private ArrayList<Resena> reseñas;
     private ArrayList<Vendedor> solicitudesDeContacto;
     private Muro muro;
 
-    public Vendedor() {
-        this.productos = new ArrayList<>();
+    public Vendedor() { //Los vendedores se crean en el cliente
     }
 }

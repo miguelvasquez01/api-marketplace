@@ -22,3 +22,2375 @@ nov 01, 2024 12:12:00 P. M. com.marketplace.api.services.XMLSerializador serial
 INFO: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
 nov 01, 2024 12:12:00 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
 INFO: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 7:59:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:00:16 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 8:00:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:00:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:00:16 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Pepe
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:30:56 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Pepe
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:31:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:31:15 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 8:31:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:31:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:31:15 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 123
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:32:04 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 8:39:41 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 123
+nov 15, 2024 8:39:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:41 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:42 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:42 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Pepe
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Pepe
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:39:59 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Pepe
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:40:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 123
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:40:21 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:49:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:49:20 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 8:49:20 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:49:20 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:49:20 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:56:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:56:13 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 8:56:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:56:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:56:13 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 8:59:25 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 8:59:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 8:59:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:59:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:59:26 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 8:59:26 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 8:59:27 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 8:59:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:59:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 8:59:27 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 9:00:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 9:00:09 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 9:00:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:09 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 69
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:12 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 9:00:36 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 9:00:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:00:36 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 9:47:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 9:47:33 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 9:47:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:47:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 9:47:33 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:03:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:03:29 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:03:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:29 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:03:53 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:03:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:03:53 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:04:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:04:29 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:04:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:29 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:04:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:04:47 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:04:47 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:47 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:04:47 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:05:46 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 123
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:05:59 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 10:07:25 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:07:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:25 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 69
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:27 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 10:07:37 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:07:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:07:37 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:08:58 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:08:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:08:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:08:58 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:32:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:32:41 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:32:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:32:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:32:41 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:33:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 69
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:33:28 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:35:16 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:35:17 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:35:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:17 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 69
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:35:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Pepe
+nov 15, 2024 10:36:45 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:36:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:36:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:36:45 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:21 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:36 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:39:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:39:48 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:39:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:39:48 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:41:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:41:20 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:41:20 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:20 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:20 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:41:21 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 15, 2024 10:43:14 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:43:14 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:14 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:14 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:16 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 15, 2024 10:43:40 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:43:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:40 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:43:59 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:43:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:43:59 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:46:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:46:44 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:46:47 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:46:47 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:47 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:46:47 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:47:11 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:47:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:47:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:47:11 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:49:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:49:02 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:49:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:49:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:49:02 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:54:26 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:54:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:26 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 1234
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:31 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Carlos
+nov 15, 2024 10:54:33 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:54:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:54:33 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 10:57:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 10:57:31 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 10:57:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:57:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 10:57:31 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:00:27 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:00:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:00:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:00:27 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:01:16 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:01:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:01:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:01:17 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:01:53 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:01:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:01:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:01:53 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:02:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:13:02 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:13:03 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:13:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:03 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:13:18 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:13:22 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:13:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:13:22 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:14:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:16:01 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:16:53 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:18:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:18:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:19:31 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:20:39 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:23:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:26:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:29:11 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:29:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:36:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:37:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:52:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:52:58 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:52:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:52:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:52:58 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:53:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:53:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:53:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:53:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:53:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:55:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:01 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 15, 2024 11:56:09 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 15, 2024 11:56:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:56:09 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 15, 2024 11:58:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 12:00:41 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 12:00:44 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 12:00:44 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:44 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:44 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:00:47 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 12:01:16 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:19 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 12:01:35 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 12:01:36 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 12:01:36 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:36 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:36 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:38 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 12:01:49 A. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 12:01:51 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 12:01:51 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:51 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:51 A. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 12:01:54 A. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 7:31:26 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 7:31:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 7:31:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 7:31:36 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 7:31:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:31:36 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 7:32:30 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 7:32:37 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 7:32:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:32:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:32:37 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 7:33:31 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 7:33:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:33:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:33:31 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 7:34:43 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:13:59 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:14:03 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:15:12 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:16:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:38:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:49:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:55:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:56:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:58:37 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:48 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 8:58:57 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:05:36 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:07:50 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:08:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:10:48 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:11:22 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:12:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:12:41 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:12:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:12:41 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:12:41 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:13:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:14:28 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 11
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:34 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:14:38 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 22
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:42 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:14:58 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:10 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:15:21 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:15:24 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:15:24 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:24 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:15:24 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:31 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:16:57 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:17:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:17:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:17:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:17:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:38 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:22:51 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:22:51 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:51 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:51 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:22:58 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:23:09 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:23:32 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:24:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:24:17 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:24:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:17 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:18 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:24:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:24:40 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:24:46 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:06 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:25:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 9:25:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:10 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:10 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:12 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:25:19 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:25:22 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:32:04 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 9:36:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:14:00 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:18:14 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:18:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:24:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:24:45 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:24:58 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:25:15 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:33 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 10:25:55 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:02:35 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 22
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:38 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:02:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 11
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:02:45 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:05 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:19 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:03:25 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:40 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:03:43 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 11:03:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:43 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:43 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:44 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:03:52 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:03:57 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:15 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:04:32 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:37:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 11
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:19 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:37:33 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 22
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:37 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:37:48 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Guardando vendedor: Daniel
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:01 P. M. com.marketplace.api.services.VendedorService guardarVendedor
+INFORMACIÓN: Vendedor guardado correctamente: Daniel
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:38:06 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:16 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:38:18 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Obteniendo todos los vendedores
+nov 16, 2024 11:38:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:18 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:18 P. M. com.marketplace.api.services.VendedorService getAllVendedores
+INFORMACIÓN: Lista de vendedores obtenida correctamente
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:19 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:38:27 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:38:30 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:48:34 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:50:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:51:13 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:22 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:51:48 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:53:17 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:56:42 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 11
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Actualizando vendedor con documento: 22
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:56:52 P. M. com.marketplace.api.services.VendedorService actualizarVendedor
+INFORMACIÓN: Vendedor actualizado correctamente: Daniel
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:59:23 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 22
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:26 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.LoginRequest <init>
+INFORMACIÓN: LoginRequest creado sin parámetros
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Autenticando vendedor
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Archivo deserializado correctamente
+nov 16, 2024 11:59:29 P. M. com.marketplace.api.services.AuthService autenticarVendedor
+INFORMACIÓN: Vendedor autenticado exitosamente
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Eliminando vendedor con documento: 11
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Deserializando lista desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.XMLSerializador deserializarLista
+INFORMACIÓN: Lista deserializada correctamente desde la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Serializando lista en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.XMLSerializador serializarLista
+INFORMACIÓN: Lista serializada correctamente en la ruta: archivosSerializados/vendedores.xml
+nov 16, 2024 11:59:34 P. M. com.marketplace.api.services.VendedorService eliminarVendedor
+INFORMACIÓN: Vendedor eliminado correctamente: Daniel

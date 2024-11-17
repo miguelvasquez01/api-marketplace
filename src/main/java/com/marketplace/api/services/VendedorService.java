@@ -104,6 +104,8 @@ public class VendedorService {
                 vendedor.setApellidos(nuevoVendedor.getApellidos());
                 vendedor.setDireccion(nuevoVendedor.getDireccion());
                 vendedor.setProductos(nuevoVendedor.getProductos());
+                vendedor.setSolicitudesDeContacto(nuevoVendedor.getSolicitudesDeContacto());
+                vendedor.setContactos(nuevoVendedor.getContactos());
 
                 xmlSerializador.serializarLista(ruta, vendedores);
                 LOGGER.log(Level.INFO, "Vendedor actualizado correctamente: " + vendedor.getNombre());
