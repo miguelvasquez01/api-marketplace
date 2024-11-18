@@ -80,6 +80,38 @@
     <void property="nombre">
      <string>Pepe</string>
     </void>
+    <void property="productos">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="com.marketplace.api.entities.Producto">
+        <void property="categoria">
+         <string>frf</string>
+        </void>
+        <void property="codigo">
+         <int>445</int>
+        </void>
+        <void property="estado">
+         <object class="java.lang.Enum" method="valueOf">
+          <class>com.marketplace.api.entities.EstadoProducto</class>
+          <string>PUBLICADO</string>
+         </object>
+        </void>
+        <void property="fechaPublicacion">
+         <string>2024-11-17</string>
+        </void>
+        <void property="imagen">
+         <string>frf</string>
+        </void>
+        <void property="nombre">
+         <string>frf</string>
+        </void>
+        <void property="precio">
+         <double>434.0</double>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
    </object>
   </void>
   <void method="add">
@@ -95,6 +127,26 @@
     </void>
     <void property="nombre">
      <string>Pepe</string>
+    </void>
+    <void property="solicitudesDeContacto">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="com.marketplace.api.entities.Vendedor">
+        <void property="apellidos">
+         <string>Pelaez</string>
+        </void>
+        <void property="cedula">
+         <string>69</string>
+        </void>
+        <void property="direccion">
+         <string>cll 1</string>
+        </void>
+        <void property="nombre">
+         <string>Pepe</string>
+        </void>
+       </object>
+      </void>
+     </object>
     </void>
    </object>
   </void>
